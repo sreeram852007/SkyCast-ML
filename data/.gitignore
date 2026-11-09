@@ -1,1 +1,5 @@
-Add-Content .gitignore "`ndata/raw/*.csv"
+.venv/
+data/raw/
+__pycache__/
+*.pyc
+.DS_Store
